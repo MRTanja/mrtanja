@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "About"
-    url: https://mrtanja.github.io/mrtanja/about/
+    url: "https://mrtanja.github.io/mrtanja/about/"
   - title: "CV"
-    url: https://mrtanja.github.io/mrtanja/cv/
+    url: "https://mrtanja.github.io/mrtanja/cv/"
   - title: "Research"
-    url: https://mrtanja.github.io/mrtanja/research/
+    url: "https://mrtanja.github.io/mrtanja/research/"
    - title: "MRI data"
-    url: https://mrtanja.github.io/mrtanja/mridata/
+    url: "https://mrtanja.github.io/mrtanja/mridata/"
   - title: "Current projects"
-    url: https://mrtanja.github.io/mrtanja/currentprojects/
+    url: "https://mrtanja.github.io/mrtanja/currentprojects/"
   - title: "Gallery"
-    url: https://mrtanja.github.io/mrtanja/gallery/
+    url: "https://mrtanja.github.io/mrtanja/gallery/"
