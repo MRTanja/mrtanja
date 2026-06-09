@@ -6,7 +6,7 @@ main:
     url: "https://mrtanja.github.io/mrtanja/cv/"
   - title: "Research"
     url: "https://mrtanja.github.io/mrtanja/research/"
-   - title: "MRI data"
+  - title: "MRI data"
     url: "https://mrtanja.github.io/mrtanja/mridata/"
   - title: "Current projects"
     url: "https://mrtanja.github.io/mrtanja/currentprojects/"
