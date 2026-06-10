@@ -12,3 +12,5 @@ main:
     url: /currentprojects/
   - title: "Gallery"
     url: /gallery/
+  - title: "Posts"
+    url: /posts/
