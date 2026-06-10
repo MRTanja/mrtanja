@@ -9,3 +9,5 @@ With a pump priming grant of £10,000 from the BRC ([Neurodegeneration and Demen
 DRIFT-CB will provide insights into the reproducibility of a much larger study QMIN-MC run by my PI Timothy Rittman, and as such the sequences will be identical and include 3D MPRAGE, 2D T2, FLAIR, multi-shell diffusion MRI, SWI and rs-fMRI.
 
 Once collected and preprocessed, the data will be available for sharing, so feel free to reach out and let me know if you'd like to analyse it yourself!
+
+{% include figure image_path="/assets/images/DRIFT_logo.png" alt="DRIFT logo" caption="DRIFT logo" %}
